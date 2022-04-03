@@ -1,7 +1,8 @@
 import {
-    handleCors,
-    handleBodyRequestParsing,
-    handleCompression
-  } from "./common";
-  
-  export default [handleCors, handleBodyRequestParsing, handleCompression];
+  handleCors,
+  handleBodyRequestParsing,
+  handleCompression,
+  dataSorceInitialize
+} from "./common";
+
+export default [handleCors, handleBodyRequestParsing, handleCompression, dataSorceInitialize];

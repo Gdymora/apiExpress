@@ -1,0 +1,39 @@
+version: '3.4'
+services:
+  db:
+    container_name: pg_container
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: test_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./local_pgdata:/var/lib/postgresql/data
+
+  pgadmin:
+    container_name: pgadmin4_container
+    image: dpage/pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: root
+    ports:
+      - target: 80
+        published: 5050
+        protocol: tcp
+        mode: host
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+
+  adminer:
+    container_name: adminer_pg
+    image: adminer
+    restart: always
+    ports:
+      - 8090:8080
+
+volumes:
+  pgadmin-data:

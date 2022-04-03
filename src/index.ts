@@ -1,4 +1,5 @@
 import http from "http";
+import 'dotenv/config';
 import express from "express";
 import { applyMiddleware, applyRoutes } from "./utils";
 import middleware from "./middleware";

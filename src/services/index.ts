@@ -1,9 +1,11 @@
 import apiRoutes from "./api/itemsRoutes";
 import categoryRoutes from "./api/categoryRoutes";
-import filmCategory from "./api/filmCategoryRoutes";
+import filmCategoryRoutes from "./api/filmCategoryRoutes";
+import filmRoutes from "./api/filmRoutes";
 
 export default [
     ...apiRoutes,
     ...categoryRoutes,
-    ...filmCategory
+    ...filmCategoryRoutes,
+    ...filmRoutes
 ];

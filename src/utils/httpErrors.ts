@@ -44,3 +44,20 @@ export abstract class HTTPClientError extends Error {
       super(message);
     }
   }
+
+  export class HTTP500Error extends HTTPClientError {
+    readonly statusCode = 500;
+  
+    constructor(message: string | object = "InternalServerError") {
+      super(message);
+    }
+  }
+
+  export class HTTP503Error extends HTTPClientError {
+    readonly statusCode = 503;
+  
+    constructor(message: string | object = "ServiceUnavailable") {
+      super(message);
+    }
+  }
+  

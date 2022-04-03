@@ -27,6 +27,9 @@ export class Film {
     @Column({ type: "int", nullable: true })
     release_year: number | null;
 
+    @Column({ type: "int", nullable: true })
+    language_id: number | null;
+
     @Index()
     @OneToOne(() => Language, (language: any) => language.film)
     @JoinColumn({ name: "language_id" })

@@ -11,4 +11,3 @@ coverage/
 sessions/
 certs/
 local_pgdata/
-redis-data/

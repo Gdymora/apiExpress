@@ -8,7 +8,6 @@ const itemsRepository = postgresDataSource.getRepository(Film);
 
 const path = "/film";
 const id = "film_id";
-type Items = Film;
 
 export default [
 
@@ -25,12 +24,12 @@ export default [
   {
     path: `${path}/:title`,
     method: "get",
-    handler: [
+    handler: [      
       getFilm     
     ]
   },
   {
-    path: `${path}/:id`,
+    path: `${path}/id/:id`,
     method: "get",
     handler: [
       async (req: Request, res: Response) => {

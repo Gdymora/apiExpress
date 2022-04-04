@@ -1,0 +1,1229 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*3
+$3
+SET
+$3
+key
+$5
+value
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649000906481
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649000911364
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649000919935
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649000932014
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649001080066
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649001081482
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649001082461
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649001083240
+*5
+$3
+SET
+$4
+key1
+$9
+"results"
+$4
+PXAT
+$13
+1649001356146
+*5
+$3
+SET
+$4
+key1
+$9
+"results"
+$4
+PXAT
+$13
+1649001357419
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649001452724
+*5
+$3
+SET
+$3
+key
+$9
+"results"
+$4
+PXAT
+$13
+1649001454282
+*5
+$3
+SET
+$4
+key1
+$10
+"results1"
+$4
+PXAT
+$13
+1649000913009
+*2
+$3
+DEL
+$4
+key1
+*5
+$3
+SET
+$4
+key1
+$10
+"results1"
+$4
+PXAT
+$13
+1649000932238
+*5
+$3
+SET
+$4
+key1
+$10
+"results1"
+$4
+PXAT
+$13
+1649000934537
+*5
+$3
+SET
+$4
+key1
+$10
+"results1"
+$4
+PXAT
+$13
+1649000937472
+*2
+$3
+DEL
+$4
+key1
+*5
+$3
+SET
+$15
+Chamber Italian
+$10
+"results1"
+$4
+PXAT
+$13
+1649001037064
+*5
+$3
+SET
+$15
+Chamber Italian
+$10
+"results1"
+$4
+PXAT
+$13
+1649001039364
+*5
+$3
+SET
+$15
+Chamber Italian
+$10
+"results1"
+$4
+PXAT
+$13
+1649001043480
+*2
+$3
+DEL
+$15
+Chamber Italian
+*2
+$3
+DEL
+$3
+key
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649003572291
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649003604421
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649003710988
+*2
+$3
+DEL
+$15
+Chamber Italian
+*2
+$6
+SELECT
+$1
+0
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649005662970
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649005773652
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649005960760
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006002373
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006044784
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006090695
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006132732
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006163024
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006499083
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006532931
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006585734
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006693667
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006733088
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006780002
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006810495
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649006861882
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649007303439
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649007333822
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649007398585
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649007483250
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649007515086
+*2
+$3
+DEL
+$15
+Chamber Italian
+*2
+$6
+SELECT
+$1
+0
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649014115564
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649017657394
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649017980536
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649018089057
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649018121755
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649018175303
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649018236596
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649018368871
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649018456377
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649018651076
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649018714534
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649018903966
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649019364784
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649019426714
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649021485163
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649021570289
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649021614136
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649021650478
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649021693985
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649022119430
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649022209714
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649022240023
+*2
+$3
+DEL
+$15
+Chamber Italian
+*2
+$6
+SELECT
+$1
+0
+*5
+$3
+SET
+$15
+Chamber Italian
+$476
+{"film_id":133,"title":"Chamber Italian","description":"A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria","release_year":2006,"language_id":1,"rental_duration":7,"rental_rate":"4.99","length":117,"replacement_cost":"14.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers"],"fulltext":"'chamber':1 'fate':4 'husband':11 'italian':2 'monkey':16 'moos':8 'must':13 'nigeria':18 'overcom':14 'reflect':5"}
+$4
+PXAT
+$13
+1649052507939
+*2
+$3
+DEL
+$15
+Chamber Italian
+*5
+$3
+SET
+$16
+Grosse Wonderful
+$463
+{"film_id":384,"title":"Grosse Wonderful","description":"A Epic Drama of a Cat And a Explorer who must Redeem a Moose in Australia","release_year":2006,"language_id":1,"rental_duration":5,"rental_rate":"4.99","length":49,"replacement_cost":"19.99","rating":"R","last_update":"2013-05-26T11:50:58.951Z","special_features":["Behind the Scenes"],"fulltext":"'australia':18 'cat':8 'drama':5 'epic':4 'explor':11 'gross':1 'moos':16 'must':13 'redeem':14 'wonder':2"}
+$4
+PXAT
+$13
+1649052665388
+*2
+$6
+SELECT
+$1
+0
+*2
+$3
+DEL
+$16
+Grosse Wonderful
+*5
+$3
+SET
+$16
+Grosse Wonderful
+$463
+{"film_id":384,"title":"Grosse Wonderful","description":"A Epic Drama of a Cat And a Explorer who must Redeem a Moose in Australia","release_year":2006,"language_id":1,"rental_duration":5,"rental_rate":"4.99","length":49,"replacement_cost":"19.99","rating":"R","last_update":"2013-05-26T11:50:58.951Z","special_features":["Behind the Scenes"],"fulltext":"'australia':18 'cat':8 'drama':5 'epic':4 'explor':11 'gross':1 'moos':16 'must':13 'redeem':14 'wonder':2"}
+$4
+PXAT
+$13
+1649058390735
+*2
+$3
+DEL
+$16
+Grosse Wonderful
+*5
+$3
+SET
+$9
+Zorro Ark
+$507
+{"film_id":1000,"title":"Zorro Ark","description":"A Intrepid Panorama of a Mad Scientist And a Boy who must Redeem a Boy in A Monastery","release_year":2006,"language_id":1,"rental_duration":3,"rental_rate":"4.99","length":50,"replacement_cost":"18.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers","Commentaries","Behind the Scenes"],"fulltext":"'ark':2 'boy':12,17 'intrepid':4 'mad':8 'monasteri':20 'must':14 'panorama':5 'redeem':15 'scientist':9 'zorro':1"}
+$4
+PXAT
+$13
+1649058549201
+*2
+$3
+DEL
+$9
+Zorro Ark
+*5
+$3
+SET
+$9
+Zorro Ark
+$507
+{"film_id":1000,"title":"Zorro Ark","description":"A Intrepid Panorama of a Mad Scientist And a Boy who must Redeem a Boy in A Monastery","release_year":2006,"language_id":1,"rental_duration":3,"rental_rate":"4.99","length":50,"replacement_cost":"18.99","rating":"NC-17","last_update":"2013-05-26T11:50:58.951Z","special_features":["Trailers","Commentaries","Behind the Scenes"],"fulltext":"'ark':2 'boy':12,17 'intrepid':4 'mad':8 'monasteri':20 'must':14 'panorama':5 'redeem':15 'scientist':9 'zorro':1"}
+$4
+PXAT
+$13
+1649058662769
+*2
+$3
+DEL
+$9
+Zorro Ark

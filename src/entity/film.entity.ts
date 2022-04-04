@@ -7,7 +7,7 @@ export enum MpaaRating {
     'PG-13',
     'R',
     'NC-17'
-};
+}
 
 @Entity()
 export class Film {

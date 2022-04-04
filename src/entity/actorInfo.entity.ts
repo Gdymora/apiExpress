@@ -1,4 +1,4 @@
-import { Entity, Column, PrimaryGeneratedColumn, Index, UpdateDateColumn, Timestamp, PrimaryColumn } from "typeorm";
+import { Entity, Column, UpdateDateColumn, Timestamp, PrimaryColumn } from "typeorm";
 
 @Entity()
 export class ActorInfo {

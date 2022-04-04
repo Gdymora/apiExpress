@@ -11,8 +11,7 @@ export default [
     path: "/",
     method: "get",
     handler: async (req: Request, res: Response) => {
-      let err = new HTTP401Error();
-      console.log("err", err.name);
+      const err = new HTTP401Error();
       res.status(401);
       res.send('Unauthorized');
 

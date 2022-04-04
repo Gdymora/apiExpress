@@ -1,5 +1,4 @@
 import "reflect-metadata";
-import { Items } from "../entity/items.entity";
 import { DataSource } from "typeorm";
 import { join } from "path";
 

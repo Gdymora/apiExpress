@@ -21,7 +21,7 @@ export class Inventory {
     store: Store;
 
     @ManyToOne(() => Film, (film: any) => film.inventory)
-    film:  Film;
+    film: Film;
 
     @UpdateDateColumn({ type: 'timestamptz', nullable: true })
     last_update: Timestamp;

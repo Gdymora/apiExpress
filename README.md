@@ -17,7 +17,7 @@
  
 ## <a name="introduction">Введение</a> 
 apiExpress — это серверное приложение на NodeJS, которое запрашивает данные в PostgreSQL базе, кеширует в памяти приложения, в Redis и отдает клиенту 
-на Node.js с использованием TypeScript, PostgreSQL, Redis, express, typeOrm с наличием базовой функциональности, а также 
+с использованием TypeScript, PostgreSQL, Redis, express, typeOrm< Docker, с наличием базовой функциональности, а также 
 с такими инструментами разработки для PostgreSQL и связанных с ней систем управления базами данных как Adminer и pgAdmin.
 В приложении уже создана и заполнена данными база PostgreSQL.
 

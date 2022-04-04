@@ -8,7 +8,7 @@ export const postgresDataSource = new DataSource({
   port: 5432,
   username: "root",
   password: "root",
-  database: "dvdrental",
+  database: "test_db",
   synchronize: false,
   entities: [`${join(__dirname, '../')}**/*.entity.{ts,js}`],
   migrations: [`${join(__dirname, '../../../../../../')}/migrations/**/*{.ts,.js}`],
